@@ -16,12 +16,9 @@ if &t_Co >= 256
   hi Comment       guibg=NONE    guifg=#686868 gui=NONE
   hi Constant      guibg=NONE    guifg=#d7875f gui=NONE
   hi Function      guibg=NONE    guifg=#af875f gui=NONE
-  " hi Identifier    guibg=NONE    guifg=#5f875f gui=NONE
   hi Identifier    guibg=NONE    guifg=#6a8050 gui=NONE
   hi PreProc       guibg=NONE    guifg=#996762 gui=NONE
-  " hi Special       guibg=NONE    guifg=#5f875f gui=NONE
   hi Special       guibg=NONE    guifg=#6a8050 gui=NONE
-  " hi Statement     guibg=NONE    guifg=#d78700 gui=NONE
   hi Statement     guibg=NONE    guifg=#cf8406 gui=NONE
   hi String        guibg=NONE    guifg=#aeae5e gui=NONE
   hi Title         guibg=NONE    guifg=#87afaf gui=NONE
@@ -71,7 +68,6 @@ if &t_Co >= 256
   hi Ignore        guibg=NONE    guifg=NONE    gui=NONE
   hi MoreMsg       guibg=NONE    guifg=#87afff gui=NONE
   hi Question      guibg=NONE    guifg=#87afff gui=NONE
-  " hi Todo          guibg=#ffffd7 guifg=#080808 gui=NONE
   hi Todo          guibg=#36362b guifg=NONE    gui=NONE
   hi WarningMsg    guibg=NONE    guifg=#ff875e gui=NONE
 
