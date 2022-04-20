@@ -16,9 +16,9 @@ if &t_Co >= 256
   hi Comment       guibg=NONE    guifg=#686868 gui=NONE
   hi Constant      guibg=NONE    guifg=#d7875f gui=NONE
   hi Function      guibg=NONE    guifg=#af875f gui=NONE
-  hi Identifier    guibg=NONE    guifg=#6a8050 gui=NONE
+  hi Identifier    guibg=NONE    guifg=#89914d gui=NONE
   hi PreProc       guibg=NONE    guifg=#996762 gui=NONE
-  hi Special       guibg=NONE    guifg=#6a8050 gui=NONE
+  hi Special       guibg=NONE    guifg=#75914d gui=NONE
   hi Statement     guibg=NONE    guifg=#cf8406 gui=NONE
   hi String        guibg=NONE    guifg=#aeae5e gui=NONE
   hi Title         guibg=NONE    guifg=#87afaf gui=NONE
@@ -36,7 +36,7 @@ if &t_Co >= 256
   hi SpecialKey    guibg=NONE    guifg=#686868 gui=NONE
   hi Underlined    guibg=NONE    guifg=NONE    gui=UNDERLINE
 
-  hi Visual        guibg=#324040 guifg=NONE    gui=NONE
+  hi Visual        guibg=#374a4a guifg=NONE    gui=NONE
   hi VisualNOS     guibg=NONE    guifg=NONE    gui=UNDERLINE
 
   hi IncSearch     guibg=#dfaf00 guifg=#262626 gui=NONE
