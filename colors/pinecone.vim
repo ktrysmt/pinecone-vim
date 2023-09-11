@@ -32,7 +32,7 @@ if &t_Co >= 256
   hi Folded        guibg=NONE    guifg=#af0000 gui=NONE
   hi LineNr        guibg=NONE    guifg=#626262 gui=NONE
   hi MatchParen    guibg=NONE    guifg=#87afff gui=NONE
-  hi SignColumn    guibg=#121212 guifg=#6c6c6c gui=NONE
+  hi SignColumn    guibg=NONE    guifg=#6c6c6c gui=NONE
   hi SpecialKey    guibg=NONE    guifg=#686868 gui=NONE
   hi Underlined    guibg=NONE    guifg=NONE    gui=UNDERLINE
 
