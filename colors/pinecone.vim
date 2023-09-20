@@ -26,7 +26,7 @@ if &t_Co >= 256
 
   hi ColorColumn   guibg=#303030 guifg=NONE    gui=NONE
   hi Conceal       guibg=NONE    guifg=#8a8a8a gui=NONE
-  hi CursorLineNr  guibg=NONE    guifg=#6c6c6c gui=NONE
+  hi CursorLineNr  guibg=NONE    guifg=#ffaf00 gui=NONE
   hi Directory     guibg=NONE    guifg=#aeae5e gui=NONE
   hi FoldColumn    guibg=NONE    guifg=#af0000 gui=NONE
   hi Folded        guibg=NONE    guifg=#af0000 gui=NONE
