@@ -10,7 +10,7 @@ if &t_Co >= 256
 
   set background=dark
 
-  hi Normal        guibg=NONE    guifg=#dec085 gui=NONE
+  hi Normal        guibg=NONE    guifg=#edc77b gui=NONE
 
   hi Boolean       guibg=NONE    guifg=#d7875f gui=NONE
   hi Comment       guibg=NONE    guifg=#686868 gui=NONE
