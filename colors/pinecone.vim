@@ -75,7 +75,7 @@ if &t_Co >= 256
   hi TabLineSel    guibg=#303030 guifg=#87afff gui=NONE
   hi TabLineFill   guibg=#303030 guifg=#ffffd7 gui=NONE
 
-  hi NonText       guibg=NONE    guifg=#686868 gui=NONE
+  hi NonText       guibg=NONE    guifg=#363636 gui=NONE
 
   hi Cursor        guibg=#ffffdf guifg=NONE    gui=NONE
   hi CursorColumn  guibg=#101010 guifg=NONE    gui=NONE
