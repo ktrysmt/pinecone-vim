@@ -84,6 +84,8 @@ if &t_Co >= 256
   hi helpleadblank guibg=NONE    guifg=NONE    gui=NONE
   hi helpnormal    guibg=NONE    guifg=NONE    gui=NONE
 
+  hi WinSeparator  guibg=NONE    guifg=#303030 gui=NONE
+
 endif
 
 hi link Number             Constant
